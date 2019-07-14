@@ -1,4 +1,4 @@
-# chomp_migration
+# chomp
 
 Chomp Game in Flutter.
 
@@ -9,6 +9,7 @@ Two players start picking a part in turn.
 the one who eats the poison chocolate dies. 
 
 ![demo](screenshots/first.png)
+![demo](screenshots/preview.gif)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
